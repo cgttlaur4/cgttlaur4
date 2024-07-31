@@ -6,6 +6,7 @@ Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
+![](https://www.tumblr.com/therocklost/30858678408/where-is-my-mind-clube-da-luta-fight)
 <!--
 **cgttlaur4/cgttlaur4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
